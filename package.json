@@ -2,7 +2,7 @@
   "name": "bitbonsai",
   "version": "3.0.0",
   "description": "Mauricio Wolff",
-  "main": "index.js",
+  "main": "./index.json",
   "scripts": {
     "postinstall": "cat index.json"
   },
@@ -10,7 +10,6 @@
     "person",
     "contact"
   ],
-  "main": "./index.json",
   "author": "Mauricio Wolff",
   "license": "ISC"
 }
