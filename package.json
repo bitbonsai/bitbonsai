@@ -3,6 +3,7 @@
   "version": "3.0.0",
   "description": "Mauricio Wolff",
   "main": "./index.json",
+  "repository": "https://github.com/bitbonsai/bitbonsai",
   "scripts": {
     "postinstall": "cat index.json"
   },
