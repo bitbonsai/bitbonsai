@@ -1,16 +1,16 @@
 
-# mwolff (mauriciowolff)
+# bitbonsai
 
 
 
 ```bash
-$ npm install mwolff
+$ npm install bitbonsai
 ```
 
 and
 
 ```js
-console.log(require('mwolff'));
+console.log(require('bitbonsai'));
 ```
 
 To get my contact information.
