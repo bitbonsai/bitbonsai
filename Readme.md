@@ -1,7 +1,7 @@
 
 # bitbonsai
 
-![Terminal output](https://cldup.com/_eE6bW3uXR-3000x3000.png)
+![Terminal output](https://cldup.com/GU9stJEqZG.png)
 
 ```bash
 $ npm install bitbonsai
