@@ -1,7 +1,7 @@
 {
-  "name": "rauchg",
+  "name": "bitbonsai",
   "version": "3.0.0",
-  "description": "Guillermo Rauch",
+  "description": "Mauricio Wolff",
   "main": "index.js",
   "scripts": {
     "postinstall": "cat index.json"
@@ -11,6 +11,6 @@
     "contact"
   ],
   "main": "./index.json",
-  "author": "Guillermo Rauch",
+  "author": "Mauricio Wolff",
   "license": "ISC"
 }
