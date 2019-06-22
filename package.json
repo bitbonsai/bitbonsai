@@ -12,5 +12,9 @@
     "contact"
   ],
   "author": "Mauricio Wolff",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "global": "^4.4.0",
+    "now": "^15.6.0"
+  }
 }
